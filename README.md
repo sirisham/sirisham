@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sirisham
+- 👋 Hi, I’m Venkateswaramma 
 - 👀 I’m interested in field of datascience
 - 🌱 I’m currently learning python along with datascience concepts
 - 💞️ I’m looking to collaborate on python/R/databricks/HPC/analytics/vizualisation
